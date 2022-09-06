@@ -77,7 +77,7 @@ section.card-details {
 }
 .card-back {
   left: 390px;
-  bottom: 15%;
+  top: 60%;
 }
 .card-logo,
 .card-number-display,
@@ -126,7 +126,7 @@ section.card-details {
 .cvc-display {
   position: absolute;
   right: 60px;
-  bottom: 117px;
+  bottom: 100px;
 }
 
 /* CARD FORM SECTION */
